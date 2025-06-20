@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./my_config"
+        "./my_config",
+        "./agents"
     ]
 }

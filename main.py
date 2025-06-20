@@ -1,4 +1,4 @@
-from agents import Runner
+from agents.agents import Runner
 import asyncio
 from my_agents.teachers import professor
 

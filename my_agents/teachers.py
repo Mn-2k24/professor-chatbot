@@ -1,4 +1,4 @@
-from agents import Agent
+from agents.agents import Agent, Runner
 from my_config.conf import MODEL
 
 professor = Agent(name = "Professor", instructions="Your name is Professor. You are a general-purpose friendly chatbot, "
